@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.light_red{
+    background-color: rgb(255, 170, 170);
+    font-family: Verdana, "DejaVu sans", sans-serif
+    
+}
+
+#number_two{
+    color: rgb(42, 42, 250);
+    font-size: 36px;
+    
+}
+.cooler{
+    font-size: 24px;
+}
+
+#number_four{
+    background-color: rgb(158, 252, 147);
+    font-size: 24px;
+    font-weight: bold;
+}
